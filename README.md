@@ -1,10 +1,10 @@
 ## Hi, I'm Khuzayma Mushtaq!
-
+I'm an undergrad student at UMass Amherst with a major in Computer Science and a minor in Mathematics. I am mostly inclined towards computational fields, including AI research and ML. I’m currently serving as an Undergraduate Teaching Assistant (UGTA) for Calculus I & II
 <!--
 **khuzaymaa918/khuzaymaa918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I'm a Computer Science student at UMass Amherst (Class of 2028)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
