@@ -1,10 +1,6 @@
 <h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
 <p align="center">
-  Computer Science @ UMass Amherst · Math Minor · UGTA (Calculus I & II)
-</p>
-
-<p align="center">
   <a href="mailto:kmushtaq@umass.edu">
     <img src="https://img.shields.io/badge/Email-kmushtaq%40umass.edu-red?style=for-the-badge&logo=gmail">
   </a>
