@@ -58,6 +58,8 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-1976D2?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" />
   <img alt="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" />
   <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000">
+
   
 </p>
 
