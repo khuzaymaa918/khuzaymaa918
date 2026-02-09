@@ -31,11 +31,14 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
+  <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+  <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000">
   <img alt="JavaScript" src="https://img.shields.io/badge/JS-JAVASCRIPT-F7DF1E?style=for-the-badge&labelColor=000000&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TS-TYPESCRIPT-3178C6?style=for-the-badge&labelColor=000000" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4E79A7?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 
 </p>
 
