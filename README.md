@@ -46,18 +46,19 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4E79A7?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000
-  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn">
+  <img alt="NumPy" src="https://img.shields.io/badge/NUMPY-0B1F2A?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
+  <img alt="pandas" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
 </p>
 
 ---
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
-  <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-1976D2?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+  
 </p>
 
 ---
