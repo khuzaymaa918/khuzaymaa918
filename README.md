@@ -17,7 +17,7 @@
 
 ---
 
-## A little more about me…
+### A little more about me…
 
 Computer Science undergraduate at **UMass Amherst** with a strong interest in **AI, machine learning, and computational problem solving**.  
 Currently working as an **Undergraduate Teaching Assistant for Calculus I & II**.
