@@ -16,6 +16,9 @@
   </a>
 </p>
 
+
+<img align="right" width="300" src="https://i.pinimg.com/736x/f9/72/47/f9724751d33fc41220d3f85c85f8a98b.jpg">
+
 ---
 
 ## A little more about me…
@@ -31,7 +34,7 @@ I enjoy building systems that are:
 
 ---
 
-## Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk">
@@ -41,7 +44,7 @@ I enjoy building systems that are:
 
 ---
 
-## Machine Learning & Data
+#### Machine Learning & Data
 <p>
   <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy">
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas">
@@ -50,7 +53,7 @@ I enjoy building systems that are:
 
 ---
 
-## Tools
+#### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
