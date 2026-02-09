@@ -1,7 +1,6 @@
 <h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
 <p align="center">
-  <a href="mailto:kmushtaq@umass.edu">
     <img src="https://img.shields.io/badge/Email-kmushtaq%40umass.edu-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
