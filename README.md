@@ -25,7 +25,7 @@ I’ve worked as a Game Developer Intern at Game Storm Studios, where I built ga
 
 Right now, I’m sharpening my skills through hands-on projects in machine learning, full-stack development, and data-driven applications, while preparing for roles in AI and quantitative tech.
 
-When I’m not coding or studying, I’m usually following Formula 1, football, or exploring new ideas in tech, finance, and design.
+When I’m not coding or studying, I’m usually following Formula 1, cricket, or exploring my passion for fragnances.
 
 ---
 
