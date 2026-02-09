@@ -49,8 +49,8 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img alt="scikit-learn" src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
   <img alt="pandas" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000">
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000">
   <img src="https://img.shields.io/badge/UNITY-100000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000">
 
 
@@ -62,6 +62,7 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-1976D2?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" />
   <img alt="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000">
   <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000">
 
