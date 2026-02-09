@@ -71,26 +71,4 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 
 ---
 
-## Featured Project
 
-### Bank Loan Approval (Machine Learning)
-- Python-based classification system
-- Data preprocessing and feature handling
-- Model training and evaluation pipeline
-- Accuracy and confusion-matrix analysis
-
-Repository:  
-https://github.com/khuzaymaa918/bank-loan-approval
-
----
-
-## Current Focus
-- Building strong ML portfolio projects
-- Writing cleaner, more reproducible code
-- Preparing for AI or data science internships
-
----
-
-<p align="center">
-  <b>Open to research opportunities and internships.</b>
-</p>
