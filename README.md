@@ -34,7 +34,9 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk">
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JS-JAVASCRIPT-F7DF1E?style=for-the-badge&labelColor=000000&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+
 </p>
 
 ---
