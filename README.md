@@ -19,14 +19,13 @@
 
 ### A little more about me…
 
-Computer Science undergraduate at **UMass Amherst** with a strong interest in **AI, machine learning, and computational problem solving**.  
-Currently working as an **Undergraduate Teaching Assistant for Calculus I & II**.
+Hey there! I’m Khuzayma, a Computer Science major with a strong foundation in mathematics at UMass Amherst, focused on building practical systems in AI, data science, and software engineering.
 
-I enjoy building systems that are:
-- Practical
-- Data-driven
-- Cleanly engineered
-- Easy to reproduce
+I’ve worked as a Game Developer Intern at Game Storm Studios, where I built gameplay systems and processed large volumes of telemetry data to improve player experience. On campus, I serve as a Teaching Assistant for Calculus I, helping students master core mathematical concepts and problem-solving strategies.
+
+Right now, I’m sharpening my skills through hands-on projects in machine learning, full-stack development, and data-driven applications, while preparing for roles in AI and quantitative tech.
+
+When I’m not coding or studying, I’m usually following Formula 1, football, or exploring new ideas in tech, finance, and design.
 
 ---
 
