@@ -69,6 +69,4 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   
 </p>
 
----
-
 
