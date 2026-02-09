@@ -38,14 +38,14 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img alt="TypeScript" src="https://img.shields.io/badge/TS-TYPESCRIPT-3178C6?style=for-the-badge&labelColor=000000" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4E79A7?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 
 </p>
 
 ---
 
-#### Machine Learning & Data
 <p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4E79A7?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000
   <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy">
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas">
   <img src="https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn">
