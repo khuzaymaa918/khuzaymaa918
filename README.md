@@ -29,7 +29,6 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 
 ---
 
-#### Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
   <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
@@ -55,7 +54,6 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 
 ---
 
-#### Tools
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-1976D2?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" />
   <img alt="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" />
