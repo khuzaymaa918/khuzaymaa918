@@ -49,6 +49,8 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img alt="NumPy" src="https://img.shields.io/badge/NUMPY-0B1F2A?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
   <img alt="pandas" src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000">
+
 </p>
 
 ---
