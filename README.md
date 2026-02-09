@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Khuzayma Mushtaq</h1>
+<h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
 <p align="center">
   Computer Science @ UMass Amherst · Math Minor · UGTA (Calculus I & II)
