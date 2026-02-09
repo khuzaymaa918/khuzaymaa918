@@ -26,22 +26,6 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
 
 ---
 
-<h2 align="center">Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://via.placeholder.com/300x180.png?text=Stock+Prediction+Model" width="300">
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://via.placeholder.com/300x180.png?text=Expense+Tracker" width="300">
-  </a>
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://via.placeholder.com/300x180.png?text=Algorithm+Visualizer" width="300">
-  </a>
-</p>
-
-
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
   <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
