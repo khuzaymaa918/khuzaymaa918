@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
