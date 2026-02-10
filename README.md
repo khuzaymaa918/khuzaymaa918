@@ -1,6 +1,12 @@
 <h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
 <p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=12000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
+</p>
+
+
+
+<p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -11,10 +17,6 @@
 
 
 <img align="right" width="300" src="https://i.pinimg.com/736x/f9/72/47/f9724751d33fc41220d3f85c85f8a98b.jpg">
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=12000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
-</p>
 
 ---
 
