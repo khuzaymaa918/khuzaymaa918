@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-00C2FF?style=for-the-badge">
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="500">
+</p>
+
+
 ---
 
 ### A little more about me…
