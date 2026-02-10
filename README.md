@@ -33,6 +33,10 @@ When I’m not coding or studying, I’m usually watching Formula 1, cricket, or
   <img alt="TypeScript" src="https://img.shields.io/badge/TS-TYPESCRIPT-3178C6?style=for-the-badge&labelColor=000000" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=000000">
+
+
 
 </p>
 
