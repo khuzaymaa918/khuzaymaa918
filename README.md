@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge&logo=react">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Data+Science+Focused;Building+Real+World+Projects">
+</p>
 
 
 ---
