@@ -4,7 +4,7 @@
 </p>
 
 <p align="left" style="margin: 4px 0;">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/khuzayma-mushtaq">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/khuzaymaa918">
