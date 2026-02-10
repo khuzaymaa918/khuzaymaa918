@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=20000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=12000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
 </p>
 
 
