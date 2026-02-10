@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&color=000000&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
 </p>
 
-<p align="left">
+<p align="left" style="margin: 4px 0;">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
