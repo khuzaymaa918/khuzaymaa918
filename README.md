@@ -18,20 +18,11 @@
   <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge&logo=react">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Data+Science+Focused;Building+Real+World+Projects">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20AI%20Projects-00C2FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-00C2FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-00C2FF?style=for-the-badge">
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Science;AI/ML+ Engineer;Building+Real+World+Projects">
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="500">
-</p>
 
 
 ---
