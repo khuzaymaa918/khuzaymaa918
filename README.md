@@ -12,18 +12,9 @@
 
 <img align="right" width="300" src="https://i.pinimg.com/736x/f9/72/47/f9724751d33fc41220d3f85c85f8a98b.jpg">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-000?style=for-the-badge&logo=openai">
-  <img src="https://img.shields.io/badge/Data%20Science-000?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge&logo=react">
-</p>
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=12000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
 </p>
-
-
-
 
 ---
 
