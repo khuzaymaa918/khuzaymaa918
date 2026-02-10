@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Khuzayma Mushtaq!</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=12000&color=000000&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=10000&color=000000&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
 </p>
 
 
