@@ -1,6 +1,6 @@
 # hey, i'm Khuzayma
 
-<img align="right" width="380" src="banner.gif" /><img width="536" height="608" alt="The Ultimate Programmer’s Den 💻 _ Late Night Coding Vibes" src="https://github.com/user-attachments/assets/e2d9fc88-cde5-4280-96c2-3ab5645c1e52" />
+<img align="right" width="380" src="banner.gif" /><img width="336" height="408" alt="The Ultimate Programmer’s Den 💻 _ Late Night Coding Vibes" src="https://github.com/user-attachments/assets/e2d9fc88-cde5-4280-96c2-3ab5645c1e52" />
 
 
 ### cs + math @ umass amherst · i build agents and then try to break them
