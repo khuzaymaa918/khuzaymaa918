@@ -8,7 +8,7 @@
 
 Hey there! I'm Khuzayma, a Computer Science major with a Math minor at UMass Amherst, in the Commonwealth Honors College. Most of what I build is agents and the backends underneath them, and I care less about chaining API calls than about making that chain fail safely.
 
-I'm currently a Machine Learning Fellow at AI4ALL Ignite, where my team modeled tax equity across 61,000+ Census records. This summer I was a Software Engineer Intern at Eccountant ERP in Lahore, building full-stack features and REST APIs for a cloud ERP platform. On campus I TA Calculus.
+I'm currently a Machine Learning Fellow at AI4ALL Ignite, where my team modeled tax equity across 61,000+ Census records. This summer I was a Software Engineer Intern at Eccountant ERP in Lahore, building full-stack features and REST APIs for a cloud ERP platform. On campus I am a TA for Calculus.
 
 When I'm not coding, I'm watching Formula 1 or cricket, or exploring my passion for fragrances.
 
