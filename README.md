@@ -1,7 +1,6 @@
 # hey, i'm Khuzayma
 
-<img align="right" width="306" height="408" alt="The Ultimate Programmer’s Den 💻 _ Late Night Coding Vibes" src="https://github.com/user-attachments/assets/e2d9fc88-cde5-4280-96c2-3ab5645c1e52" />
-
+<img width="336" height="508" alt="The Ultimate Programmer’s Den 💻 _ Late Night Coding Vibes" src="https://github.com/user-attachments/assets/4e0c233e-abdc-45bb-8008-e54fd60e7735" />
 
 ### cs + math @ umass amherst · i build agents and then try to break them
 
@@ -11,6 +10,15 @@
 Honors CS student, Math minor, class of '28. SWE intern at Eccountant ERP this past summer, ML fellow at AI4ALL Ignite, Calculus TA in between.
 
 Anyone can chain five API calls behind a prompt. Making that chain fail safely is the part I actually find interesting.
+
+```
+currently   →  AI4ALL Ignite fellow, reading everything
+               I can find on agent reliability
+teaching    →  Calculus I & II, UMass Amherst
+last win    →  Best Use of Solana @ HackDartmouth
+speaks      →  Urdu, Hindi, Punjabi, English
+open to     →  Summer 2027 internships, Spring 2027 co-op
+```
 
 <br clear="right" />
 
@@ -97,6 +105,6 @@ The number I'd actually defend in an interview is a different one: an imputation
 
 ### elsewhere
 
-1st place at HackDartmouth · Chancellor's Award · Paul Solli Scholarship · Dean's List 2x · Commonwealth Honors College
+Chancellor's Award · Paul Solli Scholarship · Dean's List 2x · Commonwealth Honors College
 
-Looking for Summer 2027 SWE and ML internships, open to a Spring 2027 co-op. When I'm not coding it's Formula 1, cricket, and a fragrance habit I refuse to justify.
+When I'm not coding it's Formula 1, cricket, and a fragrance habit I refuse to justify. If you're building something in agents or dev tools, or you want to argue about whether one should ever be allowed to send an email unsupervised, [say hi](mailto:kmushtaq@umass.edu).
