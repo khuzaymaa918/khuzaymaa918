@@ -1,4 +1,4 @@
-# hey, i'm Khuzayma
+# hey, i'm khuzayma
 
 <img align="right" width="336" height="508" alt="The Ultimate Programmer’s Den 💻 _ Late Night Coding Vibes" src="https://github.com/user-attachments/assets/4e0c233e-abdc-45bb-8008-e54fd60e7735" />
 
