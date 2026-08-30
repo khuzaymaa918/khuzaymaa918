@@ -1,6 +1,7 @@
 # hey, i'm Khuzayma
 
 <img align="right" width="380" src="banner.gif" />
+<img align="right" width="290" src="hero.jpg" />
 
 ### cs + math @ umass amherst · i build agents and then try to break them
 
