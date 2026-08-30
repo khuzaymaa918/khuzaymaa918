@@ -1,11 +1,16 @@
-# Hi, I'm Khuzayma 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzayma_Mushtaq-0A66C2?style=flat)](https://www.linkedin.com/in/khuzayma-mushtaq)
+[![Email](https://img.shields.io/badge/Email-kmushtaq@umass.edu-555555?style=flat)](mailto:kmushtaq@umass.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-khuzaymaa918-181717?style=flat&logo=github)](https://github.com/khuzaymaa918)
 
-CS + Math @ UMass Amherst (Honors, '28). I build agents, backends, and the data pipelines underneath them.
+<img align="right" width="400" src="banner.gif" />
 
-SWE Intern @ Eccountant ERP · ML Fellow @ AI4ALL Ignite · Calculus TA @ UMass
+## 🧑‍💻 A little more about me...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzayma-mushtaq)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kmushtaq@umass.edu)
+Hey there! I'm Khuzayma, a Computer Science major with a Math minor at UMass Amherst, in the Commonwealth Honors College. Most of what I build is agents and the backends underneath them, and I care less about chaining API calls than about making that chain fail safely.
+
+I'm currently a Machine Learning Fellow at AI4ALL Ignite, where my team modeled tax equity across 61,000+ Census records. This summer I was a Software Engineer Intern at Eccountant ERP in Lahore, building full-stack features and REST APIs for a cloud ERP platform. On campus I TA Calculus.
+
+When I'm not coding, I'm watching Formula 1 or cricket, or exploring my passion for fragrances.
 
 ### Projects
 
